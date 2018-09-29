@@ -1,0 +1,2 @@
+1. android folder should be put into the htdocs folder of xampp
+2. import the android.sql into phpmyadmin
