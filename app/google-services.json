@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631322652600",
+    "firebase_url": "https://ibnbattutav3.firebaseio.com",
+    "project_id": "ibnbattutav3",
+    "storage_bucket": "ibnbattutav3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631322652600:android:65cb7ddd8b6f0585",
+        "android_client_info": {
+          "package_name": "com.example.syedrakin.ibnbattutav3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631322652600-t1fjkghcgnmgjt1uel620b3jum6tppde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqZHTI_gS4I_6fgB0ErRIC7JK1SS9l50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
